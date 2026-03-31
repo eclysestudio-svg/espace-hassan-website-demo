@@ -26,3 +26,12 @@ Static website demo for a restaurant landing page.
 ├── styles.css
 ├── script.js
 └── images/
+```
+
+Notes
+
+This is a demo concept built for presentation purposes.
+Text, images, phone numbers, branch details, and links can be updated before final client delivery.
+
+Author
+Eclyse_Studio
